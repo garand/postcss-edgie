@@ -18,7 +18,7 @@ npm install --save postcss-edgie
 
 **postcss.config.js**
 
-```
+```js
 module.exports = {
   plugins: [
     require('postcss-edgie'),
@@ -30,7 +30,7 @@ module.exports = {
 
 ##### Input
 
-```
+```css
 .button {
   background: red;
 
@@ -42,7 +42,7 @@ module.exports = {
 
 ##### Output
 
-```
+```css
 .button {
   background: red;
 }

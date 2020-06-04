@@ -1,6 +1,6 @@
-<img src="./edgie.svg" height="256"/>
+[<img src="./edgie.svg" height="256"/>](https://www.npmjs.com/package/postcss-edgie)
 
-![](https://img.shields.io/npm/v/postcss-edgie.svg)
+[![](https://img.shields.io/npm/v/postcss-edgie.svg)](https://www.npmjs.com/package/postcss-edgie)
 
 ---
 

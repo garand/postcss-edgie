@@ -1,8 +1,11 @@
 {
   "name": "postcss-edgie",
-  "version": "1.0.0",
-  "description": "PostCSS Plugin to easily target Edge and IE",
+  "version": "1.0.1",
+  "description": "PostCSS plugin to easily target Edge and IE",
   "main": "index.js",
+  "files": [
+    "index.js"
+  ],
   "scripts": {},
   "repository": {
     "type": "git",

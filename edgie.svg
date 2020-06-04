@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 727 383">
+  <defs>
+    <polygon id="edgie-b" points="0 132 10.148 178.547 52.027 132"/>
+    <filter id="edgie-a" width="115.4%" height="125.8%" x="-5.8%" y="-6.4%" filterUnits="objectBoundingBox">
+      <feOffset dx="2" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1   0 0 0 0 0   0 0 0 0 0.355450237  0 0 0 0.108937937 0"/>
+    </filter>
+    <polygon id="edgie-d" points="232.719 53 204 110.703 448.34 126 481.734 61.483"/>
+    <filter id="edgie-c" width="102.9%" height="116.4%" x="-1.1%" y="-4.1%" filterUnits="objectBoundingBox">
+      <feOffset dx="2" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1   0 0 0 0 0   0 0 0 0 0.355450237  0 0 0 0.108937937 0"/>
+    </filter>
+    <polygon id="edgie-f" points="638 272.387 638 307.73 695.031 299.164 684.82 260"/>
+    <filter id="edgie-e" width="114%" height="125.1%" x="-5.3%" y="-6.3%" filterUnits="objectBoundingBox">
+      <feOffset dx="2" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1   0 0 0 0 0   0 0 0 0 0.355450237  0 0 0 0.108937937 0"/>
+    </filter>
+    <polygon id="edgie-h" points="370 323.078 410.668 376.701 478.012 259.641"/>
+    <filter id="edgie-g" width="107.4%" height="110.3%" x="-2.8%" y="-2.6%" filterUnits="objectBoundingBox">
+      <feOffset dx="2" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1   0 0 0 0 0   0 0 0 0 0.355450237  0 0 0 0.108937937 0"/>
+    </filter>
+    <polygon id="edgie-j" points="10 306.512 46.059 265 110.281 345.683 86.059 371.961"/>
+    <filter id="edgie-i" width="108%" height="111.2%" x="-3%" y="-2.8%" filterUnits="objectBoundingBox">
+      <feOffset dx="2" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1   0 0 0 0 0   0 0 0 0 0.355450237  0 0 0 0.108937937 0"/>
+    </filter>
+    <polygon id="edgie-l" points="683.258 70 670 108.848 724.625 89.424"/>
+    <filter id="edgie-k" width="114.6%" height="130.9%" x="-5.5%" y="-7.7%" filterUnits="objectBoundingBox">
+      <feOffset dx="2" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1   0 0 0 0 0   0 0 0 0 0.355450237  0 0 0 0.108937937 0"/>
+    </filter>
+    <polygon id="edgie-n" points="54 0 84.172 122 126.152 117.751 75.289 0"/>
+    <filter id="edgie-m" width="111.1%" height="109.8%" x="-4.2%" y="-2.5%" filterUnits="objectBoundingBox">
+      <feOffset dx="2" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1   0 0 0 0 0   0 0 0 0 0.355450237  0 0 0 0.108937937 0"/>
+    </filter>
+    <polygon id="edgie-p" points="512.383 27.754 535.441 66.926 565.566 0"/>
+    <filter id="edgie-o" width="115%" height="117.9%" x="-5.6%" y="-4.5%" filterUnits="objectBoundingBox">
+      <feOffset dx="2" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1   0 0 0 0 0   0 0 0 0 0.355450237  0 0 0 0.108937937 0"/>
+    </filter>
+    <polygon id="edgie-r" points="4.516 255.285 690.516 230 619.015 295.902 39.701 295.902"/>
+    <filter id="edgie-q" width="101.2%" height="118.2%" x="-.4%" y="-4.6%" filterUnits="objectBoundingBox">
+      <feOffset dx="2" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1   0 0 0 0 0   0 0 0 0 0.355450237  0 0 0 0.108937937 0"/>
+    </filter>
+    <path id="edgie-t" d="M97.825,154.8 L102.34,126.85 L36.765,126.85 L42.57,89.44 L100.62,89.44 L105.135,61.49 L47.085,61.49 L52.46,27.95 L118.035,27.95 L122.335,-5.68434189e-14 L24.51,-5.68434189e-14 L-8.52651283e-14,154.8 L97.825,154.8 Z M152.8825,156.95 C161.339167,156.95 168.613333,154.943333 174.705,150.93 C180.796667,146.916667 184.9175,141.326667 187.0675,134.16 L187.0675,134.16 L189.2175,134.16 L185.9925,154.8 L217.1675,154.8 L241.6775,-5.68434189e-14 L209.4275,-5.68434189e-14 L203.6225,36.55 C203.335833,38.4133333 203.085,40.5275 202.87,42.8925 C202.655,45.2575 202.404167,47.515 202.1175,49.665 C201.830833,52.1016667 201.615833,54.5383333 201.4725,56.975 L201.4725,56.975 L199.3225,56.975 C199.3225,49.9516667 196.9575,44.4333333 192.2275,40.42 C187.4975,36.4066667 180.904167,34.4 172.4475,34.4 C166.284167,34.4 160.479167,35.475 155.0325,37.625 C149.585833,39.775 144.7125,42.8566667 140.4125,46.87 C136.1125,50.8833333 132.565,55.7566667 129.77,61.49 C126.975,67.2233333 125.004167,73.6016667 123.8575,80.625 L123.8575,80.625 L119.1275,109.65 C118.840833,111.656667 118.625833,113.555833 118.4825,115.3475 C118.339167,117.139167 118.2675,118.895 118.2675,120.615 C118.2675,131.938333 121.313333,140.825 127.405,147.275 C133.496667,153.725 141.989167,156.95 152.8825,156.95 Z M168.5775,128.785 C162.1275,128.785 157.433333,126.921667 154.495,123.195 C151.556667,119.468333 150.589167,114.595 151.5925,108.575 L151.5925,108.575 L155.8925,81.7 C156.895833,75.68 159.475833,70.95 163.6325,67.51 C167.789167,64.07 172.949167,62.35 179.1125,62.35 C185.275833,62.35 189.97,64.1058333 193.195,67.6175 C196.42,71.1291667 197.530833,75.8233333 196.5275,81.7 L196.5275,81.7 L192.0125,109.65 C191.1525,115.24 188.644167,119.826667 184.4875,123.41 C180.330833,126.993333 175.0275,128.785 168.5775,128.785 Z M279.32,191.35 C286.916667,191.35 294.011667,190.310833 300.605,188.2325 C307.198333,186.154167 313.039167,183.251667 318.1275,179.525 C323.215833,175.798333 327.408333,171.319167 330.705,166.0875 C334.001667,160.855833 336.151667,155.015 337.155,148.565 L337.155,148.565 L354.785,36.55 L323.61,36.55 L320.17,58.05 L318.665,58.05 C319.095,50.8833333 316.873333,45.15 312,40.85 C307.126667,36.55 300.175,34.4 291.145,34.4 C284.981667,34.4 279.176667,35.5108333 273.73,37.7325 C268.283333,39.9541667 263.445833,43.0716667 259.2175,47.085 C254.989167,51.0983333 251.4775,55.9716667 248.6825,61.705 C245.8875,67.4383333 243.916667,73.745 242.77,80.625 L242.77,80.625 L239.545,101.05 C238.541667,107.93 238.541667,114.236667 239.545,119.97 C240.548333,125.703333 242.519167,130.576667 245.4575,134.59 C248.395833,138.603333 252.194167,141.720833 256.8525,143.9425 C261.510833,146.164167 266.921667,147.275 273.085,147.275 C282.115,147.275 289.7475,145.125 295.9825,140.825 C302.2175,136.525 306.338333,130.791667 308.345,123.625 L308.345,123.625 L309.85,123.625 L304.905,148.565 C304.045,153.581667 301.644167,157.666667 297.7025,160.82 C293.760833,163.973333 288.995,165.55 283.405,165.55 L283.405,165.55 L250.08,165.55 L245.995,191.35 L279.32,191.35 Z M288.995,119.325 C282.831667,119.325 278.209167,117.605 275.1275,114.165 C272.045833,110.725 270.935,105.995 271.795,99.975 L271.795,99.975 L274.805,81.7 C275.808333,75.68 278.388333,70.95 282.545,67.51 C286.701667,64.07 291.861667,62.35 298.025,62.35 C304.188333,62.35 308.8825,64.1058333 312.1075,67.6175 C315.3325,71.1291667 316.443333,75.8233333 315.44,81.7 L315.44,81.7 L312.43,99.975 C311.426667,105.851667 308.810833,110.545833 304.5825,114.0575 C300.354167,117.569167 295.158333,119.325 288.995,119.325 Z"/>
+    <filter id="edgie-s" width="102.3%" height="106.3%" x="-.8%" y="-1.6%" filterUnits="objectBoundingBox">
+      <feOffset dx="2" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1   0 0 0 0 0.250980392   0 0 0 0 0.996078431  0 0 0 0.318154502 0"/>
+    </filter>
+    <path id="edgie-v" d="M452.4125,154.8 L456.9275,126.85 L424.6775,126.85 L440.3725,27.95 L472.6225,27.95 L476.9225,-2.84217094e-14 L380.1725,-2.84217094e-14 L375.8725,27.95 L408.1225,27.95 L392.4275,126.85 L360.1775,126.85 L355.6625,154.8 L452.4125,154.8 Z M573.475,154.8 L577.99,126.85 L512.415,126.85 L518.22,89.44 L576.27,89.44 L580.785,61.49 L522.735,61.49 L528.11,27.95 L593.685,27.95 L597.985,-2.84217094e-14 L500.16,-2.84217094e-14 L475.65,154.8 L573.475,154.8 Z"/>
+    <filter id="edgie-u" width="103.3%" height="107.8%" x="-1.2%" y="-1.9%" filterUnits="objectBoundingBox">
+      <feOffset dx="2" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1   0 0 0 0 0.250980392   0 0 0 0 0.996078431  0 0 0 0.318154502 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" filter="url(#edgie-a)" xlink:href="#edgie-b"/>
+    <use fill="#8270FE" xlink:href="#edgie-b"/>
+    <use fill="#000" filter="url(#edgie-c)" xlink:href="#edgie-d"/>
+    <use fill="#02FDFF" xlink:href="#edgie-d"/>
+    <use fill="#000" filter="url(#edgie-e)" xlink:href="#edgie-f"/>
+    <use fill="#FF2C77" xlink:href="#edgie-f"/>
+    <use fill="#000" filter="url(#edgie-g)" xlink:href="#edgie-h"/>
+    <use fill="#FAFB07" xlink:href="#edgie-h"/>
+    <use fill="#000" filter="url(#edgie-i)" xlink:href="#edgie-j"/>
+    <use fill="#02FDFF" xlink:href="#edgie-j"/>
+    <use fill="#000" filter="url(#edgie-k)" xlink:href="#edgie-l"/>
+    <use fill="#FF40FE" xlink:href="#edgie-l"/>
+    <g transform="rotate(-30 90.076 61)">
+      <use fill="#000" filter="url(#edgie-m)" xlink:href="#edgie-n"/>
+      <use fill="#FAFB07" xlink:href="#edgie-n"/>
+    </g>
+    <use fill="#000" filter="url(#edgie-o)" xlink:href="#edgie-p"/>
+    <use fill="#FF7D36" xlink:href="#edgie-p"/>
+    <use fill="#000" filter="url(#edgie-q)" xlink:href="#edgie-r"/>
+    <use fill="#03FA7B" xlink:href="#edgie-r"/>
+    <g fill-rule="nonzero" transform="translate(58.169 99.2)">
+      <use fill="#000" filter="url(#edgie-s)" xlink:href="#edgie-t"/>
+      <use fill="#FF2C77" xlink:href="#edgie-t"/>
+      <use fill="#000" filter="url(#edgie-u)" xlink:href="#edgie-v"/>
+      <use fill="#8270FE" xlink:href="#edgie-v"/>
+    </g>
+  </g>
+</svg>

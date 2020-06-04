@@ -1,0 +1,21 @@
+{
+  "name": "postcss-edgie",
+  "version": "1.0.0",
+  "description": "PostCSS Plugin to easily target Edge and IE",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garand/postcss-edgie.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/garand/postcss-edgie/issues"
+  },
+  "homepage": "https://github.com/garand/postcss-edgie#readme",
+  "dependencies": {
+    "postcss": "^7.0.32"
+  }
+}

@@ -8,6 +8,8 @@ Edgie is a PostCSS plugin to easily target Edge and IE.
 
 Built out of frustration with trying deal with specific Edge and IE issues in modern projects.
 
+**Note:** This only targets the pre-Chromium version of Edge (v44)
+
 ## Getting started
 
 ```

@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/garand/postcss-edgie#readme",
   "dependencies": {
-    "postcss": "^7.0.32"
+    "postcss": "^8.2.10"
   }
 }
